@@ -3,4 +3,4 @@
 ---
 File | Task
 ---|---
-.vimrc | Adds indenting settings to conform to Holberton coding standards.
+.vimrc | Adds indenting settings, extra space indicator, line num, etc.
