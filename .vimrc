@@ -1,4 +1,7 @@
-set tabstop=8 shiftwidth=8
+au Filetype c setlocal shiftwidth=8
+au Filetype python setlocal shiftwidth=4
+
+set tabstop=8
 set autoindent
 set smartindent
 set cindent
